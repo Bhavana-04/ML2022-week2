@@ -1,0 +1,95 @@
+body{
+    background: url("https://s-media-cache-ak0.pinimg.com/originals/f5/b1/91/f5b1913b8ac058dcfd178c8a9400981b.jpg")no-repeat center center fixed;
+      background-size: cover;
+    font-family: auto;
+    
+  }
+  header{
+    animation: animation 2s infinite;
+    color: black;
+      background: #4FF3DD;
+      padding: 10px;
+      width: 453px;
+      border-radius: 20px;
+      border: 2px solid black;
+      margin: auto;
+      margin-top: 37px;
+  }
+  @keyframes animation {
+    from{
+      background-color:#4FF3DD;
+    }
+    to{
+      background-color:#0e79a9;
+    }
+  }
+  
+  .about{
+    animation: animate 1s infinite;
+    color: black;
+    background:#4a55db;
+    padding: 10px;
+    width: 453px;
+    border-radius: 20px;
+    margin: auto;
+    border: 2px solid black;
+    margin-top: 13px;
+  }
+  @keyframes animate {
+    from{
+      background-color:#4a55db;
+    }
+    to{
+      background-color:#d139cc;
+    }
+  }
+  .size{
+    width: 400px;
+    margin-left: 100px;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin-top: 70px
+  }
+  .send{
+    margin-left: 525px;
+      margin-top: -65px;
+      border: 2px solid black;
+      border-radius: 10px;
+  }
+  .welcome{
+    color: black;
+      padding: 9px;
+      background: white;
+      width: 393px;
+      border-radius: 20px;
+      border: 1px solid black;
+      margin-left: 100px;
+      margin-top: 30px;
+  }
+  .image{
+    width: 180px;
+    height: 180px;
+    margin-top: 30px;
+    margin-left: 180px;
+    border-radius: 10px;
+  }
+  .user{
+    color: black;
+    padding: 9px;
+    width: 200px;
+    background: white;
+    margin-left: 700px;
+    border-radius: 10px;
+    border: 2px solid black;
+  
+  }
+  .bot{
+    color: white;
+    padding: 9px;
+    width: 400px;
+    background: black;
+    margin-left: 100px;
+    border-radius: 10px;
+    border: 2px solid black;
+  }
+  
