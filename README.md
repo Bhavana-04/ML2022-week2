@@ -37,4 +37,17 @@ There are four files in this chatbot.
 1. This file gives the styling to the HTML file.
 
 
+## Block Diagram
+
+![](https://github.com/Bhavana-04/ML2022-week2/blob/main/Screenshot%20(34).png)
+
+## Demo Video of the Chatbot
+
+https://youtu.be/rjoZHmoKZMQ
+
+
+## repl.it Link
+
+https://chatbot.bhavana5a2.repl.co
+
 
